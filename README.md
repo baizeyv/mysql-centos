@@ -76,7 +76,7 @@
 
 `systemctl status mysqld.service` 
 
-如果初夏下图 `Active: active(running)` 则代表服务启动成功
+如果出现下图 `Active: active(running)` 则代表服务启动成功
 
 ![image-20220416135229544](Mysql.assets/image-20220416135229544.png)
 
