@@ -8,6 +8,8 @@
 
 此地址下载`rpm package` [Yum Repository](https://dev.mysql.com/downloads/repo/yum/)
 
+也可以在本仓库的release中下载
+
 #### CentOS 8
 
 如果使用CentOS8版本，则下载下图 `rpm package`
